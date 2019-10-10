@@ -646,7 +646,7 @@ img {
   #about-d .testimonials,
   #contact-b .contact-info,
   .items {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(1, 1fr);
   }
 
   #home-a .specials div {
